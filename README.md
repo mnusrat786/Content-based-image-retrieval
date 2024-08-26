@@ -4,7 +4,7 @@ Content-Based Image Retrieval (CBIR) is a method used to search and retrieve ima
 
 
 # Dataset
-The COREL Database for Content based Image Retrieval
+I used the COREL Database for this project.
 
 There are total 10,800 images divided into 80 classes, e.g., autumn, aviation, bonsai, castle, cloud, dog, elephant, iceberg, primates, ship, stalactite, steam-engine, tiger, train, and waterfall etc.
 
