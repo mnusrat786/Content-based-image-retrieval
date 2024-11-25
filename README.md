@@ -1,5 +1,5 @@
 
-# Content based image retriev
+# Content based image retrieval
 
 Content Based Image Retrieval (CBIR) is a method used to search and retrieve images from large-scale image databases based on the actual visual content of the image rather than relying on manually tagged metadata or keywords.
 
