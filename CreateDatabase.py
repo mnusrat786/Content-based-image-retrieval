@@ -1,4 +1,4 @@
-from shutil import copyfil
+from shutil import copyfile
 import os
 import numpy as np
 import DeepImageUtils as IU
