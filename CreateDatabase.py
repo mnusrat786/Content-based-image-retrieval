@@ -2,7 +2,6 @@ from shutil import copyfile
 import os
 import numpy as np
 import DeepImageUtils as IU
-
 def MakeDirChecked(path):
     if not os.path.isdir(path):
         os.mkdir(path)
